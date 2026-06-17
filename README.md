@@ -1,4 +1,4 @@
-# 8-Bit Arithmetic Logic Unit (ALU) Simulation
+# 8-Bit Arithmetic Logic Unit (ALU) 
 
 An 8-bit Arithmetic Logic Unit (ALU) designed and simulated in **Proteus**. This project mimics the core functionality of a modern processor's ALU, executing 11 distinct arithmetic and logic operations. It serves as a practical implementation of fundamental digital electronics and computer architecture concepts.
 
@@ -6,7 +6,7 @@ An 8-bit Arithmetic Logic Unit (ALU) designed and simulated in **Proteus**. This
 
 ## 📸 Hardware Implementation Preview
 
-*(Drop your hardware image right below this line)*
+
 <img width="537" height="637" alt="image" src="https://github.com/user-attachments/assets/7a34c4b6-8858-485f-8600-77bc050cfc08" />
 
 
